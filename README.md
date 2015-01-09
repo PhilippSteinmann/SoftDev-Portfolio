@@ -1,6 +1,6 @@
 Portfolio
 =========
-- [**EscalatorHaus**](https://github.com/Zabari/EscalatorHaus)
+- [**EscalatorHaus**](https://github.com/Zabari/EscalatorHaus) (term project)
     - Created with Andrew Fischer, Aaron Mortenson, Daniel Zabari
     - A system providing a live feed on escalator statuses in the Stuyvesant building.
     - Clone: https://github.com/Zabari/EscalatorHaus.git
