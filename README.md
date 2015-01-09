@@ -1,5 +1,9 @@
 Portfolio
 =========
+- [**EscalatorHaus**](https://github.com/Zabari/EscalatorHaus)
+    - Created with Andrew Fischer, Aaron Mortenson, Daniel Zabari
+    - A system providing a live feed on escalator statuses in the Stuyvesant building.
+    - Clone: https://github.com/Zabari/EscalatorHaus.git
 - [**Tennis Stats**](https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/brian-philipp)
     - Created with Brian Sapozhnikov
     - A static site analyzing statistics from the history of tennis.
