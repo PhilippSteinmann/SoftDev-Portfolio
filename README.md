@@ -1,5 +1,6 @@
 Portfolio
 =========
+Software Development at Stuyvesant High School, 2014-2015. Instructor Michael Zamansky.
 - [**STEPS**](https://github.com/Zabari/STEPS) (term project)
     - Created with Andrew Fischer, Aaron Mortenson, Daniel Zabari
     - A system providing a live feed on escalator statuses in the Stuyvesant building.
